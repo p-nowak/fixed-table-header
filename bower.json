@@ -1,13 +1,13 @@
 {
-  "name": "angular-fixed-table-header",
-  "version": "0.2.1",
+  "name": "angular-fixed-table-header-forked",
+  "version": "0.2.2",
   "description": "Fixed table header directive.",
   "main": [
     "src/fixed-table-header.js"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/daniel-nagy/fixed-table-header.git"
+    "url": "git://github.com/p-nowak/fixed-table-header.git"
   },
   "authors": [
     "Daniel Nagy"
